@@ -1,0 +1,1 @@
+obj_controller.game_over = true;
